@@ -1,0 +1,26 @@
+{
+  "Version": 1,
+  "ProjectMap": {
+    "bc0b98df-c740-4d3c-9f82-c8b6a7cff4c4": {
+      "ProjectGuid": "bc0b98df-c740-4d3c-9f82-c8b6a7cff4c4",
+      "DisplayName": "AngularCompany.WebApi",
+      "ColorIndex": 0
+    },
+    "ab367a23-9965-435a-ada1-9e1ef6d8d5a2": {
+      "ProjectGuid": "ab367a23-9965-435a-ada1-9e1ef6d8d5a2",
+      "DisplayName": "AngularCompany.Core",
+      "ColorIndex": 1
+    },
+    "15fab4b2-85ea-44c6-8d48-564581985513": {
+      "ProjectGuid": "15fab4b2-85ea-44c6-8d48-564581985513",
+      "DisplayName": "AngularCompany.DataLayer",
+      "ColorIndex": 2
+    },
+    "a2fe74e1-b743-11d0-ae1a-00a0c90fffc3": {
+      "ProjectGuid": "a2fe74e1-b743-11d0-ae1a-00a0c90fffc3",
+      "DisplayName": "Miscellaneous Files",
+      "ColorIndex": -1
+    }
+  },
+  "NextColorIndex": 3
+}

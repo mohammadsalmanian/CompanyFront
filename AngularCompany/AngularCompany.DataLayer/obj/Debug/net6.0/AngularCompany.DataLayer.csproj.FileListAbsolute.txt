@@ -1,0 +1,14 @@
+G:\AngularCompany\AngularCompany\AngularCompany.DataLayer\obj\Debug\net6.0\AngularCompany.DataLayer.csproj.AssemblyReference.cache
+G:\AngularCompany\AngularCompany\AngularCompany.DataLayer\obj\Debug\net6.0\AngularCompany.DataLayer.GeneratedMSBuildEditorConfig.editorconfig
+G:\AngularCompany\AngularCompany\AngularCompany.DataLayer\obj\Debug\net6.0\AngularCompany.DataLayer.AssemblyInfoInputs.cache
+G:\AngularCompany\AngularCompany\AngularCompany.DataLayer\obj\Debug\net6.0\AngularCompany.DataLayer.AssemblyInfo.cs
+G:\AngularCompany\AngularCompany\AngularCompany.DataLayer\obj\Debug\net6.0\AngularCompany.DataLayer.csproj.CoreCompileInputs.cache
+G:\AngularCompany\AngularCompany\AngularCompany.DataLayer\bin\Debug\net6.0\AngularCompany.DataLayer.deps.json
+G:\AngularCompany\AngularCompany\AngularCompany.DataLayer\bin\Debug\net6.0\AngularCompany.DataLayer.runtimeconfig.json
+G:\AngularCompany\AngularCompany\AngularCompany.DataLayer\bin\Debug\net6.0\AngularCompany.DataLayer.dll
+G:\AngularCompany\AngularCompany\AngularCompany.DataLayer\bin\Debug\net6.0\ref\AngularCompany.DataLayer.dll
+G:\AngularCompany\AngularCompany\AngularCompany.DataLayer\bin\Debug\net6.0\AngularCompany.DataLayer.pdb
+G:\AngularCompany\AngularCompany\AngularCompany.DataLayer\obj\Debug\net6.0\AngularCompany.DataLayer.dll
+G:\AngularCompany\AngularCompany\AngularCompany.DataLayer\obj\Debug\net6.0\ref\AngularCompany.DataLayer.dll
+G:\AngularCompany\AngularCompany\AngularCompany.DataLayer\obj\Debug\net6.0\AngularCompany.DataLayer.pdb
+G:\AngularCompany\AngularCompany\AngularCompany.DataLayer\obj\Debug\net6.0\AngularCompany.DataLayer.genruntimeconfig.cache
