@@ -3668,11 +3668,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "G:\\AngularCompany\\AngularCompany\\AngularCompany.Core\\AngularCompany.Core.csproj",
+      "projectUniqueName": "G:\\CompanyGit\\AngularCompany\\AngularCompany.Core\\AngularCompany.Core.csproj",
       "projectName": "AngularCompany.Core",
-      "projectPath": "G:\\AngularCompany\\AngularCompany\\AngularCompany.Core\\AngularCompany.Core.csproj",
+      "projectPath": "G:\\CompanyGit\\AngularCompany\\AngularCompany.Core\\AngularCompany.Core.csproj",
       "packagesPath": "C:\\Users\\mohammad\\.nuget\\packages\\",
-      "outputPath": "G:\\AngularCompany\\AngularCompany\\AngularCompany.Core\\obj\\",
+      "outputPath": "G:\\CompanyGit\\AngularCompany\\AngularCompany.Core\\obj\\",
       "projectStyle": "PackageReference",
       "fallbackFolders": [
         "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
@@ -3693,8 +3693,8 @@
         "net6.0": {
           "targetAlias": "net6.0",
           "projectReferences": {
-            "G:\\AngularCompany\\AngularCompany\\AngularCompany.DataLayer\\AngularCompany.DataLayer.csproj": {
-              "projectPath": "G:\\AngularCompany\\AngularCompany\\AngularCompany.DataLayer\\AngularCompany.DataLayer.csproj"
+            "G:\\CompanyGit\\AngularCompany\\AngularCompany.DataLayer\\AngularCompany.DataLayer.csproj": {
+              "projectPath": "G:\\CompanyGit\\AngularCompany\\AngularCompany.DataLayer\\AngularCompany.DataLayer.csproj"
             }
           }
         }

@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "/lHpUJYlY2lGTLXub2QH7OfSKhJWy1CETCfrwvUOajBCAAQm+IDVWgEb0jYTASGPWy4nxuiZFi8DXwcZqj/2hA==",
+  "dgSpecHash": "dG4odcYF8CUThULUfiWaLCpiVAUduDQcxnUt7QRmF6Vh4YjM0mCu3xJkm9VZZBqc4MxzHyjy9XMwej63UwOZ0w==",
   "success": true,
-  "projectFilePath": "G:\\AngularCompany\\AngularCompany\\AngularCompany.WebApi\\AngularCompany.WebApi.csproj",
+  "projectFilePath": "G:\\CompanyGit\\AngularCompany\\AngularCompany.WebApi\\AngularCompany.WebApi.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\mohammad\\.nuget\\packages\\anglesharp\\0.17.1\\anglesharp.0.17.1.nupkg.sha512",
     "C:\\Users\\mohammad\\.nuget\\packages\\anglesharp.css\\0.17.0\\anglesharp.css.0.17.0.nupkg.sha512",

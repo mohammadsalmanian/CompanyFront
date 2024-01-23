@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "fXWVG0DS1F3Bi8UMIu1JaCQ4z5rRDajpBTmz4Hb2+Ui77zJ1VtqG0grdZ5MF5P+CnWlbHhPvLn1VofL+Os18Zw==",
+  "dgSpecHash": "eMBQkKhBXHBPD0C5KSUkehMOZFdc2k9AnTRRAw/zN2Kv8NZue4CJpf+2zkcyk7/0DakrDwqi+e1eQwcOAkCebg==",
   "success": true,
-  "projectFilePath": "G:\\AngularCompany\\AngularCompany\\AngularCompany.DataLayer\\AngularCompany.DataLayer.csproj",
+  "projectFilePath": "G:\\CompanyGit\\AngularCompany\\AngularCompany.DataLayer\\AngularCompany.DataLayer.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\mohammad\\.nuget\\packages\\azure.core\\1.24.0\\azure.core.1.24.0.nupkg.sha512",
     "C:\\Users\\mohammad\\.nuget\\packages\\azure.identity\\1.6.0\\azure.identity.1.6.0.nupkg.sha512",
